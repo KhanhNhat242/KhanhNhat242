@@ -22,3 +22,10 @@
 <hr/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhanhNhat242" />
+
+<hr/>
+
+<h3>Contact</h3>
+<ul>
+  <li>Gmail: khanhnhat24022002@gmail.com</li>
+</ul>
