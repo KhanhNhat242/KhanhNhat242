@@ -38,5 +38,11 @@
 
 <hr/>
 
+<img src="https://streak-stats.demolab.com/?user=khanhnhat242" />
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=khanhnhat242" />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhanhNhat242" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=khanhnhat242" />
 
