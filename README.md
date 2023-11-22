@@ -4,8 +4,8 @@
 
 <hr/>
 
-**Student of Industrial University of Ho Chi Minh City**
-*I'm studying technologies aboout Front-end and Back-end*
+**Student of Industrial University of Ho Chi Minh City** <br/>
+*I'm studying technologies about Front-end and Back-end*
 
 <hr/>
 
