@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-<h1>WELCOME TO MY GITGHUB PROFILE</h1>
+<h2>WELCOME TO MY GITGHUB PROFIL :-></h2>
 
 <hr/>
 
-**I am a student from the Industrial University of Ho Chi Minh City** <br/>
-*I'm studying technologies related to Front-end, Back-end, System Design, and anything related to the Information Technology major*
+<h4>I am a student from the Industrial University of Ho Chi Minh City, I'm studying technologies related to Front-end, Back-end, System Design, and anything related to the Information Technology major</h4>
 
 <hr/>
 
