@@ -4,8 +4,8 @@
 
 <hr/>
 
-**Student of Industrial University of Ho Chi Minh City** <br/>
-*I'm studying technologies about Front-end and Back-end*
+**I am a student from the Industrial University of Ho Chi Minh City** <br/>
+*I'm studying technologies related to Front-end, Back-end, System Design, and anything related to the Information Technology major*
 
 <hr/>
 
