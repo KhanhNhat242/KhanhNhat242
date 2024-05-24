@@ -4,7 +4,7 @@
 
 <hr/>
 
-<h4>I am a student from the Industrial University of Ho Chi Minh City, I'm studying technologies related to Front-end, Back-end, System Design, and anything related to the Information Technology major</h4>
+<h4>I am a student from the Industrial University of Ho Chi Minh City, I'm studying technologies related to Front-end, Back-end, System Design, and anything related to the Information Technology major.</h4>
 
 <hr/>
 
