@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2>WELCOME TO MY GITGHUB PROFIL :-></h2>
+<h2>WELCOME TO MY GITGHUB PROFILE :-></h2>
 
 <hr/>
 
